@@ -1,0 +1,27 @@
+H:\c#\C#5\Paint\Paint\bin\Debug\Paint.exe
+H:\c#\C#5\Paint\Paint\bin\Debug\Paint.pdb
+H:\c#\C#5\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.MicroPaint.resources
+H:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+H:\c#\C#5\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\c#\C#5\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.exe
+H:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.pdb
+I:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.exe
+I:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.pdb
+I:\c#\C#5\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.MicroPaint.resources
+I:\c#\C#5\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+I:\c#\C#5\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\c#\C#5\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\c#\C#5\Paint\Paint\bin\Debug\Paint.exe
+I:\c#\C#5\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\obj\x86\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\obj\x86\Debug\Paint.MicroPaint.resources
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\obj\x86\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\obj\x86\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\obj\x86\Debug\Paint.exe
+C:\Users\Koziol\Downloads\Paint (1)\Paint\Paint\obj\x86\Debug\Paint.pdb
